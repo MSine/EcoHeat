@@ -12,7 +12,7 @@
 #define RTC_COEFF 20/3
 #define SLEEP_DUR 60 //second
 
-const char* ssid = "Robcave";
+const char* ssid = "wifi";
 const char* password = "********";
 const char* mqtt_server = "192.168.1.9";
 
